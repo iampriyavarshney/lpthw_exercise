@@ -1,0 +1,3 @@
+hi i am learning python 
+learn python the hard way 
+opening and reading files
